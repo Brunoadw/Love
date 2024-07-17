@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+    height: 100%;
+}
+
+h2{
+    position: absolute;
+}
+
+img{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.imgredonda{
+    border-radius: 50%;
+}
+
+.border10{
+    border-radius: 10%;
+}
+
+.primeira{
+    position: absolute;
+    top: 9%;
+    width: 100%;
+    height: 20%;
+
+}
+
+.tituloum{
+    color: red;
+}
+
+.textoum{
+    top: 10%;
+    margin: 2px;
+    position: absolute;
+    width: 45%;
+    height: 100%;
+}
+
+.imagemum{
+    position: absolute;
+    width: 45%;
+    height: 100%;
+    right: 0;
+    top: 10px;
+}
+
+.titulodois{
+    color: white;
+    right: 10%;
+    top: 40%;
+    z-index: 1;
+}
+
+.segundo{
+    background-color: red;
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    height: 45%;
+    background-color: red;
+    color: white;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+.textodois{
+    top: 30%;
+    margin: 2px;
+    position: absolute;
+    width: 45%;
+    height: 100%;
+    right: 0;
+}
+
+
+.imagemdoisum{
+    position: absolute;
+    width: 15%;
+    height: 35%;
+    left: 2%;
+    top: 48%;
+}
+
+.imagemdoisdois{
+    position: absolute;
+    width: 15%;
+    height: 35%;
+    left: 2%;
+    top: 2%;
+}
+
+.imagemdoistres{
+    position: absolute;
+    width: 15%;
+    height: 35%;
+    left: 18%;
+    top: 28%;
+}
+
+.terceiro{
+    background-color: blue;
+    position: absolute;
+    top: 85%;
+    width: 100%;
+    height: 45%;
+    color: white;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.titulotres{
+    top:84%;
+    color:white;
+    z-index: 1;
+    left: 20%;
+}
+
+.textotres{
+    top: 25%;
+    margin: 2px;
+    position: absolute;
+    width: 45%;
+    height: 100%;
+    margin: 2%;
+}
+
+.imagemtres{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    right: 2%;
+    top: 19%;
+}
+
+.fim{
+    position: absolute;
+    top: 120%;
+    width: 100%;
+    height: 45%;
+}
+
+.textofim{
+    top: 35%;
+    margin: 2px;
+    position: absolute;
+    width: 45%;
+    height: 100%;
+    margin: 2%;
+}
+
+.imagemfimum{
+    position: absolute;
+    width: 20%;
+    height: 30%;
+    right: 2%;
+    top: 30%;   
+}
+
+.imagemfimdois{
+    position: absolute;
+    width: 20%;
+    height: 30%;
+    right: 25%;
+    top: 55%;
+}
+
+.titulofim{
+    color: blue;
+    top: 128%;
+    z-index: 1;
+    left: 10%;
+}
+
+h1{
+    position: absolute;
+    top: 170%;
+    z-index: 1;
+    left: 25%;
+    text-align: center;
+    color: red;
+}
